@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @David-Orangemoon
-- 🌱 I’m currently writing alot of scratch extensions and websites in JS. Also an indie game.
-- 📫 How to reach me ObviousAlexC on itch and discord, ObviousAlexC on Gamejolt and roblox, Pinksheep2917 on scratch
+- 👋 Hola, soy @David-Orangemoon
+- 🌱 Actualmente estoy trabajando en scratch extensiones y sitios de red en JS.
+- Español/English
 - creator and the leader of obvious studios.
 - Making a game and coffee engine
 - The pen+ guy
